@@ -47,9 +47,11 @@ charges – Insurance cost (target variable)
 
 # Insights
 
-- Smoking status, Age and Body Mass Index act as the dominant financial drivers in predicting total insurance claims.
+- Smoking status accounts for the highest medical insurance charges, Body Mass Index and age also act as the dominant financial drivers in predicting total insurance claims.
 - Number of dependent children exerts a secondary, modest linear upward force on final healthcare premium pricing.
 - Sex and geographical location yield minimal statistical correlation.
+- These findings align with real‑world expectations: smoking significantly increases health risks and costs, while BMI and age correlate with long‑term medical expenses.
 - Key Takeaway: Focus premium pricing on lifestyle decisions and physical health indices over local demographics.
+- This project therefore demonstrates the value of predictive analytics in healthcare and insurance domains.
 
 
