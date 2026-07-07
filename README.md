@@ -24,39 +24,20 @@ The project covers:
 - Scikit learn
 
 # Dataset 
-- [GitHub Repository](https://github.com/JustusAkuku/CAPSTONE-PROJECT/raw/main/insurance.csv)
 - [Download insurance.csv](https://github.com/JustusAkuku/CAPSTONE-PROJECT/raw/main/insurance.csv)
 
-# How to Run
+**Dataset Features**:
+
+- *age* – Age of the insured person
+- *sex* – Gender
+- *bmi* – Body Mass Index
+- *children* – Number of dependents
+- *smoker* – Smoking status (yes/no)
+- *region* – Residential area (northeast, southeast, southwest, northwest)
+- *charges* – Insurance cost (target variable)
+
+# How to run this project
 [Open in Google Colab](https://colab.research.google.com/github/JustusAkuku/CAPSTONE-PROJECT/blob/main/CAPSTONE_PROJECT_GROUP_13.ipynb)
-
-
-
-
-
-
-- 
-  
-
-
-
-
-Features:
-
-age – Age of the insured person
-
-sex – Gender
-ith my 
-bmi – Body Mass Index
-
-children – Number of dependents
-
-smoker – Smoking status (yes/no)
-
-region – Residential area (northeast, southeast, southwest, northwest)
-
-charges – Insurance cost (target variable)
-
 
 ## :bulb: KEY INSIGHTS
 *Smoking  status drives the insurance charges, accompanied by factors such as BMI and age*.
