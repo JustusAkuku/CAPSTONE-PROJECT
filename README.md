@@ -27,11 +27,9 @@ The project covers:
 - File: **insurance.csv** in this repository
 
 ## 🚀 How to Run This Project
-[GitHub Repository](https://github.com/JustusAkuku/CAPSTONE-PROJECT)
+[GitHub Repository](https://github.com/JustusAkuku/CAPSTONE-PROJECT/raw/main/insurance.csv)
 
-You can download the dataset directly here:
 
-[Download insurance.csv](https://github.com/JustusAkuku/CAPSTONE-PROJECT/raw/main/data/insurance.csv)
 
 
 
