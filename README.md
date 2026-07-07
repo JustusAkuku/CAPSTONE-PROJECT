@@ -27,11 +27,12 @@ The project covers:
 - File: **insurance.csv** in this repository
 
 ## 🚀 How to Run This Project
+## 📂 Download the Data
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/JustusAkuku/CAPSTONE-PROJECT.git
-cd CAPSTONE-PROJECT
+You can download the dataset directly here:
+
+[Download Data](https://github.com/JustusAkuku/CAPSTONE-PROJECT/raw/main/data/insurance.csv)
+
 
 - 
   
