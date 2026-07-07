@@ -26,7 +26,14 @@ The project covers:
 # Dataset and how to run this project
 - File: **insurance.csv** in this repository
 
-- You can download it here:[Download insurance.csv](https://raw.githubusercontent.com/JustusAkuku/CAPSTONE-PROJECT/main/insurance.csv)
+## 🚀 How to Run This Project
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/JustusAkuku/CAPSTONE-PROJECT.git
+cd CAPSTONE-PROJECT
+
+- 
   
 
 
@@ -37,7 +44,7 @@ Features:
 age – Age of the insured person
 
 sex – Gender
-
+ith my 
 bmi – Body Mass Index
 
 children – Number of dependents
@@ -55,15 +62,12 @@ charges – Insurance cost (target variable)
 **Scatterplot Analysis**
 
 ***smoking is the dominant cost driver***
-
 Smokers (blue) cluster well above non-smokers (orange) across every age, with charges typically $15K-$50K+ versus $2K-$15K. The smoker premium far exceeds the effect of age alone.
 
 ***Age has a positive but modest effect***
-
 The trend line rises steadily from roughly $27K at age 20 to about $42K ata age 65, confirming a positive age-cost relationship, though the slope is gradual relative to the spread within each group.
 
 ***Distinct sub-bands suggest a third factor***
-
 The smoker group splits into two visible bands ($15K-$30K and $30K-$65K), pointing to an additional driver, the Body Mass Index (BMI).
 
 ***BMI amplifies the smoker charges sharply***
